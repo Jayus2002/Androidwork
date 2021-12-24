@@ -12,4 +12,7 @@
 |data|返回装修公司，建材市场或者设计师列表 需要form参数|
 |person_change | 修改个人信息 |
 | delete| 删除用户|
-|  |   |
+| fuzzy_search | 模糊搜索 参数key |
+| recommend| 推荐 |
+| adminlist| 返回管理员列表|
+| permission|管理权限和权限组|
