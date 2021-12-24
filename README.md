@@ -16,3 +16,8 @@
 | recommend| 推荐 |
 | adminlist| 返回管理员列表|
 | permission|管理权限和权限组|
+
+# 登录
+  使用token保持登录状态
+  
+ 
